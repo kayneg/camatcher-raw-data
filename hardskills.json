@@ -1,0 +1,162 @@
+[
+  {
+    "id": "41da52e8-55d3-48fa-ab94-a01c7a87defc",
+    "name": "React"
+  },
+  {
+    "id": "91087655-b0d6-4ea0-8c44-26ee709dfbe4",
+    "name": "HTML"
+  },
+  {
+    "id": "3d354e28-d2b2-4b92-8a9e-afabea85087b",
+    "name": "CSS"
+  },
+  {
+    "id": "9a5e1c52-da3a-4926-9415-da8549b11f55",
+    "name": "Python"
+  },
+  {
+    "id": "e545e93f-d7f3-45ce-96bd-da8313c75375",
+    "name": "Java"
+  },
+  {
+    "id": "84475e2b-ac49-419e-bc58-c8956a530b96",
+    "name": "Vue"
+  },
+  {
+    "id": "09416ce4-cab2-402f-a061-d9791be5fa2b",
+    "name": "Angular"
+  },
+  {
+    "id": "8249393f-3575-497a-aabb-3903d647e607",
+    "name": "JavaScript"
+  },
+  {
+    "id": "bb826c17-2798-4ef1-b04f-e1cf9394f670",
+    "name": "TypeScript"
+  },
+  {
+    "id": "543c8abc-2388-4f32-8736-66021cf7bd38",
+    "name": "Swift"
+  },
+  {
+    "id": "7861f06f-1852-4ffc-9881-6f40432918df",
+    "name": "C#"
+  },
+  {
+    "id": "f9320a60-d338-48d8-acce-3c332059e6f9",
+    "name": "C++"
+  },
+  {
+    "id": "7dd5426d-e589-4877-92a3-16abd1ce7f8d",
+    "name": "R"
+  },
+  {
+    "id": "dd000e5c-b980-4f3e-8b82-e4f4a8c4eb67",
+    "name": "Golang"
+  },
+  {
+    "id": "00bc006f-87bd-4e50-b6f4-9f96a5925ea3",
+    "name": "PHP"
+  },
+  {
+    "id": "c6986d27-1a2e-4c57-90f7-9bea3791dc85",
+    "name": "TypeScript"
+  },
+  {
+    "id": "0d6e33aa-0fb8-44fd-a1ca-b25ab339528c",
+    "name": "Scala"
+  },
+  {
+    "id": "8dc89c30-c5bc-476c-9c01-4595838c157e",
+    "name": "Shell"
+  },
+  {
+    "id": "a3aff64e-3bc8-49c9-92fc-c2ba8ea79336",
+    "name": "PowerShell"
+  },
+  {
+    "id": "db2ce978-8fa4-4d8f-9a7f-61c4b3332746",
+    "name": "Perl"
+  },
+  {
+    "id": "60588d49-2855-4c87-899e-ba7cf70b669e",
+    "name": "Haskell"
+  },
+  {
+    "id": "41892d01-a4f9-463d-bf1c-1e68c850adaa",
+    "name": "Kotlin"
+  },
+  {
+    "id": "005ba36f-03d3-4d84-a596-59d0e21aad9d",
+    "name": "Redux"
+  },
+  {
+    "id": "d654f125-2482-48fd-91bd-b9234805e74b",
+    "name": "Zustand"
+  },
+  {
+    "id": "9e8d7378-9c00-4362-830e-dfb10c34e3e9",
+    "name": "MobX"
+  },
+  {
+    "id": "d098606f-9fc3-4be4-8bc1-c54783d3c62c",
+    "name": ".NET"
+  },
+  {
+    "id": "e0614b5b-37b1-43e6-92df-e547631cc88b",
+    "name": "SQL"
+  },
+  {
+    "id": "1448c777-4f7e-4c56-937f-364ada740ccc",
+    "name": "Delphi"
+  },
+  {
+    "id": "48d4c80d-ee61-4ae8-ae48-a65a03fa0655",
+    "name": "MATLAB"
+  },
+  {
+    "id": "61636170-64d7-4d9d-9129-96bc39c49931",
+    "name": "Groovy"
+  },
+  {
+    "id": "ec338ec0-1c3f-48e8-87b3-cff52fa27bff",
+    "name": "Lua"
+  },
+  {
+    "id": "6635a203-b90a-40c5-98f8-d8b8d5f08063",
+    "name": "Rust"
+  },
+  {
+    "id": "2ab8cf26-bac1-4903-b52a-aaa522071cb3",
+    "name": "Ruby"
+  },
+  {
+    "id": "4d23999f-a36e-4583-8cc3-95f56ff6cf7b",
+    "name": "Node.js"
+  },
+  {
+    "id": "b33b9032-d228-4a91-a82b-8e69cc7dfe7c",
+    "name": "Next.js"
+  },
+  {
+    "id": "938c5f63-5f54-4319-8af0-6969802a385d",
+    "name": "Nuxt"
+  },
+  {
+    "id": "a90ddbbc-4ec0-48f5-88c3-a64c8c5dc5ee",
+    "name": "Deno"
+  },
+  {
+    "id": "98c2e830-bb18-4e71-99cb-1be963fc98ee",
+    "name": "Laravel"
+  },
+  {
+    "id": "5750579a-2ff4-4200-92a9-84e8f20e759d",
+    "name": "Git"
+  },
+  {
+    "id": "291a57a9-140b-436c-bca2-7b1cdacff654",
+    "name": "React Native"
+  }
+]
